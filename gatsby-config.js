@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `日常Summit！`,
-    author: `t.motoki`,
+    title: `KuziranoBlog`,
+    author: `kuzirano`,
     description: `日々の作業を書いてくよ`,
-    siteUrl: `https://nichijosummit.github.io/blog`,
+    siteUrl: `https://kuzira-no-brog.github.io/blog`,
     social: {
-      twitter: `NichijoSummit`,
+      twitter: `kuzirano`,
     },
   },
   plugins: [
